@@ -31,8 +31,6 @@ Text Label 8100 5550 0    50   ~ 0
 Row3
 Text Label 8100 5650 0    50   ~ 0
 Row4
-Text Label 10000 5550 0    50   ~ 0
-Col0
 Text Label 10000 5650 0    50   ~ 0
 Col1
 Text Label 10000 5450 0    50   ~ 0
@@ -55,8 +53,6 @@ Wire Wire Line
 	9800 5450 10000 5450
 Wire Wire Line
 	9800 5650 10000 5650
-Wire Wire Line
-	9800 5550 10000 5550
 Text Label 4000 4000 0    50   ~ 0
 Col5
 $Comp
