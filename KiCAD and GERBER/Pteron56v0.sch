@@ -934,4 +934,81 @@ Text Label 7050 4900 0    50   ~ 0
 Serial
 Wire Wire Line
 	6850 5600 7050 5600
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 60759BE2
+P 10100 6000
+F 0 "H1" H 10200 6046 50  0000 L CNN
+F 1 "MountingHole" H 10200 5955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 10100 6000 50  0001 C CNN
+F 3 "~" H 10100 6000 50  0001 C CNN
+	1    10100 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 60759F7C
+P 10400 6000
+F 0 "H3" H 10500 6046 50  0000 L CNN
+F 1 "MountingHole" H 10500 5955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 10400 6000 50  0001 C CNN
+F 3 "~" H 10400 6000 50  0001 C CNN
+	1    10400 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 6075A135
+P 10700 6000
+F 0 "H5" H 10800 6046 50  0000 L CNN
+F 1 "MountingHole" H 10800 5955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 10700 6000 50  0001 C CNN
+F 3 "~" H 10700 6000 50  0001 C CNN
+	1    10700 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 6075A3BD
+P 10700 6250
+F 0 "H6" H 10800 6296 50  0000 L CNN
+F 1 "MountingHole" H 10800 6205 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 10700 6250 50  0001 C CNN
+F 3 "~" H 10700 6250 50  0001 C CNN
+	1    10700 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 6075A694
+P 10400 6250
+F 0 "H4" H 10500 6296 50  0000 L CNN
+F 1 "MountingHole" H 10500 6205 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 10400 6250 50  0001 C CNN
+F 3 "~" H 10400 6250 50  0001 C CNN
+	1    10400 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 6075A93C
+P 10100 6250
+F 0 "H2" H 10200 6296 50  0000 L CNN
+F 1 "MountingHole" H 10200 6205 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 10100 6250 50  0001 C CNN
+F 3 "~" H 10100 6250 50  0001 C CNN
+	1    10100 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 607A62BA
+P 10100 6450
+F 0 "H7" H 10200 6496 50  0000 L CNN
+F 1 "MountingHole" H 10200 6405 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 10100 6450 50  0001 C CNN
+F 3 "~" H 10100 6450 50  0001 C CNN
+	1    10100 6450
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
