@@ -21,9 +21,9 @@ Text Label 2700 4000 0    50   ~ 0
 Col3
 Text Label 3350 4000 0    50   ~ 0
 Col4
-Text Label 8100 5350 0    50   ~ 0
-Row1
 Text Label 8100 5450 0    50   ~ 0
+Row1
+Text Label 8100 5350 0    50   ~ 0
 Row2
 Text Label 8100 5550 0    50   ~ 0
 Row3
@@ -31,24 +31,18 @@ Text Label 8100 5650 0    50   ~ 0
 Row4
 Text Label 10000 5650 0    50   ~ 0
 Col1
-Text Label 10000 5450 0    50   ~ 0
+Text Label 10000 5550 0    50   ~ 0
 Col2
-Text Label 10000 5350 0    50   ~ 0
+Text Label 10000 5450 0    50   ~ 0
 Col3
-Text Label 10000 5250 0    50   ~ 0
+Text Label 10000 5350 0    50   ~ 0
 Col4
-Text Label 10000 5150 0    50   ~ 0
-Col5
 Wire Wire Line
 	8100 5650 8400 5650
-Wire Wire Line
-	9800 5150 10000 5150
 Wire Wire Line
 	9800 5250 10000 5250
 Wire Wire Line
 	9800 5350 10000 5350
-Wire Wire Line
-	9800 5450 10000 5450
 Wire Wire Line
 	9800 5650 10000 5650
 Text Label 4000 4000 0    50   ~ 0
@@ -836,4 +830,10 @@ F 3 "~" H 10100 6450 50  0001 C CNN
 	1    10100 6450
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	9800 5550 10000 5550
+Wire Wire Line
+	9800 5450 10000 5450
+Text Label 10000 5250 0    50   ~ 0
+Col5
 $EndSCHEMATC
