@@ -836,4 +836,15 @@ Wire Wire Line
 	9800 5450 10000 5450
 Text Label 10000 5650 0    50   ~ 0
 Col5
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 60793C0F
+P 10400 6450
+F 0 "H8" H 10500 6496 50  0000 L CNN
+F 1 "MountingHole" H 10500 6405 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 10400 6450 50  0001 C CNN
+F 3 "~" H 10400 6450 50  0001 C CNN
+	1    10400 6450
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
