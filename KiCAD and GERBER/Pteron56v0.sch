@@ -21,8 +21,6 @@ Text Label 2700 4000 0    50   ~ 0
 Col3
 Text Label 3350 4000 0    50   ~ 0
 Col4
-Text Label 8100 5250 0    50   ~ 0
-Row0
 Text Label 8100 5350 0    50   ~ 0
 Row1
 Text Label 8100 5450 0    50   ~ 0
@@ -37,9 +35,9 @@ Text Label 10000 5450 0    50   ~ 0
 Col2
 Text Label 10000 5350 0    50   ~ 0
 Col3
-Text Label 10000 5250 0    50   ~ 0
-Col4
 Text Label 10000 5150 0    50   ~ 0
+Col4
+Text Label 10000 5250 0    50   ~ 0
 Col5
 Wire Wire Line
 	8100 5650 8400 5650
@@ -85,38 +83,6 @@ Wire Wire Line
 	1250 1500 1250 1200
 Wire Wire Line
 	1250 1200 1900 1200
-$Comp
-L Diode:1N4148 D6
-U 1 1 60963573
-P 1550 1150
-F 0 "D6" H 1550 1367 50  0000 C CNN
-F 1 "1N4148" H 1550 1276 50  0000 C CNN
-F 2 "Keebio-Parts:Diode-dual" H 1550 975 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1550 1150 50  0001 C CNN
-	1    1550 1150
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1850 900  1850 1150
-$Comp
-L keyboard_parts:SW_PUSH SW6
-U 1 1 6096357E
-P 1550 900
-F 0 "SW6" H 1550 1155 50  0000 C CNN
-F 1 "SW_PUSH" H 1550 1064 50  0000 C CNN
-F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 1550 900 60  0001 C CNN
-F 3 "" H 1550 900 60  0000 C CNN
-	1    1550 900 
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1850 1150 1700 1150
-Wire Wire Line
-	1250 900  1250 600 
-Wire Wire Line
-	1250 600  1900 600 
-Wire Wire Line
-	1400 1150 1400 1750
 Wire Wire Line
 	1250 1850 1900 1850
 Wire Wire Line
@@ -175,38 +141,6 @@ F 1 "1N4148" H 1550 3126 50  0000 C CNN
 F 2 "Keebio-Parts:Diode-dual" H 1550 2825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1550 3000 50  0001 C CNN
 	1    1550 3000
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2050 1150 2050 1750
-Wire Wire Line
-	1900 600  2550 600 
-Wire Wire Line
-	1900 900  1900 600 
-Wire Wire Line
-	2500 1150 2350 1150
-$Comp
-L keyboard_parts:SW_PUSH SW11
-U 1 1 609D6518
-P 2200 900
-F 0 "SW11" H 2200 1155 50  0000 C CNN
-F 1 "SW_PUSH" H 2200 1064 50  0000 C CNN
-F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 2200 900 60  0001 C CNN
-F 3 "" H 2200 900 60  0000 C CNN
-	1    2200 900 
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2500 900  2500 1150
-$Comp
-L Diode:1N4148 D11
-U 1 1 609D651F
-P 2200 1150
-F 0 "D11" H 2200 1367 50  0000 C CNN
-F 1 "1N4148" H 2200 1276 50  0000 C CNN
-F 2 "Keebio-Parts:Diode-dual" H 2200 975 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2200 1150 50  0001 C CNN
-	1    2200 1150
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -302,38 +236,6 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2200 
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2700 1150 2700 1750
-Wire Wire Line
-	2550 600  3200 600 
-Wire Wire Line
-	2550 900  2550 600 
-Wire Wire Line
-	3150 1150 3000 1150
-$Comp
-L keyboard_parts:SW_PUSH SW16
-U 1 1 60A11253
-P 2850 900
-F 0 "SW16" H 2850 1155 50  0000 C CNN
-F 1 "SW_PUSH" H 2850 1064 50  0000 C CNN
-F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 2850 900 60  0001 C CNN
-F 3 "" H 2850 900 60  0000 C CNN
-	1    2850 900 
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3150 900  3150 1150
-$Comp
-L Diode:1N4148 D16
-U 1 1 60A1125A
-P 2850 1150
-F 0 "D16" H 2850 1367 50  0000 C CNN
-F 1 "1N4148" H 2850 1276 50  0000 C CNN
-F 2 "Keebio-Parts:Diode-dual" H 2850 975 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2850 1150 50  0001 C CNN
-	1    2850 1150
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
 	2550 1200 3200 1200
 Wire Wire Line
 	2550 1500 2550 1200
@@ -361,38 +263,6 @@ F 1 "1N4148" H 2850 1876 50  0000 C CNN
 F 2 "Keebio-Parts:Diode-dual" H 2850 1575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2850 1750 50  0001 C CNN
 	1    2850 1750
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3350 1150 3350 1750
-Wire Wire Line
-	3200 600  3850 600 
-Wire Wire Line
-	3200 900  3200 600 
-Wire Wire Line
-	3800 1150 3650 1150
-$Comp
-L keyboard_parts:SW_PUSH SW21
-U 1 1 60A305BB
-P 3500 900
-F 0 "SW21" H 3500 1155 50  0000 C CNN
-F 1 "SW_PUSH" H 3500 1064 50  0000 C CNN
-F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 3500 900 60  0001 C CNN
-F 3 "" H 3500 900 60  0000 C CNN
-	1    3500 900 
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3800 900  3800 1150
-$Comp
-L Diode:1N4148 D21
-U 1 1 60A305C2
-P 3500 1150
-F 0 "D21" H 3500 1367 50  0000 C CNN
-F 1 "1N4148" H 3500 1276 50  0000 C CNN
-F 2 "Keebio-Parts:Diode-dual" H 3500 975 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3500 1150 50  0001 C CNN
-	1    3500 1150
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -552,61 +422,24 @@ $EndComp
 Wire Wire Line
 	1400 2400 1400 1750
 Connection ~ 1400 2400
-Connection ~ 1400 1750
 Wire Wire Line
 	2050 1750 2050 2400
-Connection ~ 2050 1750
 Connection ~ 2050 2400
 Wire Wire Line
 	2700 1750 2700 2400
-Connection ~ 2700 1750
 Connection ~ 2700 2400
 Wire Wire Line
 	3350 2400 3350 1750
 Connection ~ 3350 2400
-Connection ~ 3350 1750
-Connection ~ 1900 600 
 Connection ~ 1900 1200
 Connection ~ 1900 1850
 Connection ~ 1900 2450
-Connection ~ 2550 600 
 Connection ~ 2550 1200
 Connection ~ 2550 1850
 Connection ~ 2550 2450
-Connection ~ 3200 600 
 Connection ~ 3200 1200
 Connection ~ 3200 1850
 Connection ~ 3200 2450
-Wire Wire Line
-	4000 1150 4000 1750
-Wire Wire Line
-	3850 900  3850 600 
-Wire Wire Line
-	4450 1150 4300 1150
-$Comp
-L keyboard_parts:SW_PUSH SW25
-U 1 1 60C99C95
-P 4150 900
-F 0 "SW25" H 4150 1155 50  0000 C CNN
-F 1 "SW_PUSH" H 4150 1064 50  0000 C CNN
-F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 4150 900 60  0001 C CNN
-F 3 "" H 4150 900 60  0000 C CNN
-	1    4150 900 
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4450 900  4450 1150
-$Comp
-L Diode:1N4148 D25
-U 1 1 60C99C9C
-P 4150 1150
-F 0 "D25" H 4150 1367 50  0000 C CNN
-F 1 "1N4148" H 4150 1276 50  0000 C CNN
-F 2 "Keebio-Parts:Diode-dual" H 4150 975 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4150 1150 50  0001 C CNN
-	1    4150 1150
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	3850 1500 3850 1200
 Wire Wire Line
@@ -811,7 +644,6 @@ Connection ~ 4000 3000
 Wire Wire Line
 	4000 2400 4000 1750
 Connection ~ 4000 2400
-Connection ~ 4000 1750
 $Comp
 L promicro:ProMicro U1
 U 1 1 608E6182
@@ -831,11 +663,6 @@ Text Label 4850 2450 0    50   ~ 0
 Row3
 Text Label 4850 1850 0    50   ~ 0
 Row2
-Text Label 4850 600  0    50   ~ 0
-Row0
-Wire Wire Line
-	3850 600  4850 600 
-Connection ~ 3850 600 
 Wire Wire Line
 	3850 1200 4850 1200
 Connection ~ 3850 1200
@@ -854,8 +681,6 @@ Wire Wire Line
 	8100 5450 8400 5450
 Wire Wire Line
 	8100 5550 8400 5550
-Wire Wire Line
-	8100 5250 8400 5250
 Wire Wire Line
 	8400 4950 8100 4950
 Text Label 8100 4950 0    50   ~ 0
