@@ -675,9 +675,7 @@ Wire Wire Line
 	8100 5450 8400 5450
 Wire Wire Line
 	8100 5550 8400 5550
-Wire Wire Line
-	8400 4950 8100 4950
-Text Label 8100 4950 0    50   ~ 0
+Text Label 8100 4500 0    50   ~ 0
 Serial
 $Comp
 L Connector:AudioJack4 J1
@@ -836,4 +834,222 @@ Wire Wire Line
 	9800 5450 10000 5450
 Text Label 10000 5650 0    50   ~ 0
 Col5
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 60793C0F
+P 10400 6450
+F 0 "H8" H 10500 6496 50  0000 L CNN
+F 1 "MountingHole" H 10500 6405 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 10400 6450 50  0001 C CNN
+F 3 "~" H 10400 6450 50  0001 C CNN
+	1    10400 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J3
+U 1 1 60775285
+P 4500 5800
+F 0 "J3" H 4580 5792 50  0000 L CNN
+F 1 "Conn_01x04" H 4580 5701 50  0000 L CNN
+F 2 "usbc_footprint:OLED_4Pin_outline" H 4500 5800 50  0001 C CNN
+F 3 "~" H 4500 5800 50  0001 C CNN
+	1    4500 5800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 4500 8400 4500
+Wire Wire Line
+	8400 4500 8400 4550
+Wire Wire Line
+	4300 5700 4100 5700
+Wire Wire Line
+	4300 5800 4150 5800
+Wire Wire Line
+	3850 5900 4200 5900
+Wire Wire Line
+	4300 6000 4250 6000
+Wire Wire Line
+	4100 5700 4100 6250
+Wire Wire Line
+	4100 6250 3850 6250
+Connection ~ 4100 5700
+Wire Wire Line
+	4100 5700 3850 5700
+Wire Wire Line
+	4150 5800 4150 6350
+Wire Wire Line
+	4150 6350 3850 6350
+Connection ~ 4150 5800
+Wire Wire Line
+	4150 5800 3850 5800
+Wire Wire Line
+	4200 5900 4200 6450
+Wire Wire Line
+	4200 6450 3850 6450
+Connection ~ 4200 5900
+Wire Wire Line
+	4200 5900 4300 5900
+Wire Wire Line
+	4250 6000 4250 6550
+Wire Wire Line
+	4250 6550 3850 6550
+Connection ~ 4250 6000
+Wire Wire Line
+	4250 6000 3850 6000
+$Comp
+L Device:Jumper_NO_Small JP1
+U 1 1 60791352
+P 3750 5700
+F 0 "JP1" H 3750 5885 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 3750 5794 50  0000 C CNN
+F 2 "SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK" H 3750 5700 50  0001 C CNN
+F 3 "~" H 3750 5700 50  0001 C CNN
+	1    3750 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP2
+U 1 1 607919BE
+P 3750 5800
+F 0 "JP2" H 3750 5985 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 3750 5894 50  0000 C CNN
+F 2 "SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK" H 3750 5800 50  0001 C CNN
+F 3 "~" H 3750 5800 50  0001 C CNN
+	1    3750 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP3
+U 1 1 60791C36
+P 3750 5900
+F 0 "JP3" H 3750 6085 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 3750 5994 50  0000 C CNN
+F 2 "SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK" H 3750 5900 50  0001 C CNN
+F 3 "~" H 3750 5900 50  0001 C CNN
+	1    3750 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP4
+U 1 1 60791EC7
+P 3750 6000
+F 0 "JP4" H 3750 6185 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 3750 6094 50  0000 C CNN
+F 2 "SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK" H 3750 6000 50  0001 C CNN
+F 3 "~" H 3750 6000 50  0001 C CNN
+	1    3750 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP5
+U 1 1 60792104
+P 3750 6250
+F 0 "JP5" H 3750 6435 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 3750 6344 50  0000 C CNN
+F 2 "SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK" H 3750 6250 50  0001 C CNN
+F 3 "~" H 3750 6250 50  0001 C CNN
+	1    3750 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP6
+U 1 1 607923D2
+P 3750 6350
+F 0 "JP6" H 3750 6535 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 3750 6444 50  0000 C CNN
+F 2 "SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK" H 3750 6350 50  0001 C CNN
+F 3 "~" H 3750 6350 50  0001 C CNN
+	1    3750 6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP7
+U 1 1 6079263D
+P 3750 6450
+F 0 "JP7" H 3750 6635 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 3750 6544 50  0000 C CNN
+F 2 "SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK" H 3750 6450 50  0001 C CNN
+F 3 "~" H 3750 6450 50  0001 C CNN
+	1    3750 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP8
+U 1 1 6079280A
+P 3750 6550
+F 0 "JP8" H 3750 6735 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 3750 6644 50  0000 C CNN
+F 2 "SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK" H 3750 6550 50  0001 C CNN
+F 3 "~" H 3750 6550 50  0001 C CNN
+	1    3750 6550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3650 6000 3300 6000
+Wire Wire Line
+	3650 5900 3300 5900
+Wire Wire Line
+	3650 5800 3300 5800
+Wire Wire Line
+	3650 5700 3300 5700
+Wire Wire Line
+	3650 6250 3300 6250
+Wire Wire Line
+	3650 6350 3300 6350
+Wire Wire Line
+	3650 6450 3300 6450
+Wire Wire Line
+	3650 6550 3300 6550
+Text GLabel 3300 6000 0    50   Input ~ 0
+SDA
+Text GLabel 3300 5900 0    50   Input ~ 0
+SCL
+$Comp
+L power:VCC #PWR0105
+U 1 1 607B52AE
+P 3300 5800
+F 0 "#PWR0105" H 3300 5650 50  0001 C CNN
+F 1 "VCC" V 3315 5927 50  0000 L CNN
+F 2 "" H 3300 5800 50  0001 C CNN
+F 3 "" H 3300 5800 50  0001 C CNN
+	1    3300 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0106
+U 1 1 607B5F3E
+P 3300 5700
+F 0 "#PWR0106" H 3300 5450 50  0001 C CNN
+F 1 "GND" V 3305 5572 50  0000 R CNN
+F 2 "" H 3300 5700 50  0001 C CNN
+F 3 "" H 3300 5700 50  0001 C CNN
+	1    3300 5700
+	0    1    1    0   
+$EndComp
+Text GLabel 3300 6250 0    50   Input ~ 0
+SDA
+Text GLabel 3300 6350 0    50   Input ~ 0
+SCL
+$Comp
+L power:VCC #PWR0107
+U 1 1 607B6A8D
+P 3300 6450
+F 0 "#PWR0107" H 3300 6300 50  0001 C CNN
+F 1 "VCC" V 3315 6577 50  0000 L CNN
+F 2 "" H 3300 6450 50  0001 C CNN
+F 3 "" H 3300 6450 50  0001 C CNN
+	1    3300 6450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0108
+U 1 1 607B6FB5
+P 3300 6550
+F 0 "#PWR0108" H 3300 6300 50  0001 C CNN
+F 1 "GND" V 3305 6422 50  0000 R CNN
+F 2 "" H 3300 6550 50  0001 C CNN
+F 3 "" H 3300 6550 50  0001 C CNN
+	1    3300 6550
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC
