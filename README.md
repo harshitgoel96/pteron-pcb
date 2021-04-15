@@ -7,4 +7,4 @@ This project is the split evolution of the [pteron-pcb](https://github.com/Krake
 The keyboard is being desinged to be used with [Miryoku-layout](https://github.com/manna-harbour/miryoku), this layout out aims to have efficient use of split keyboard.
 
 ## Important
-The keyboard and case files are currently untested. I do not have a timeline for testing at this moment.
+The keyboard and case files are currently untested. The files are now ready for prototype. I am planning to run a prototype once things open up in India.
