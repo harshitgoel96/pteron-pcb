@@ -7,7 +7,7 @@
       "Application": "Pcbnew",
       "Version":     "(5.1.7)-1"
     },
-    "CreationDate":  "2021-04-14T22:27:46+05:30"
+    "CreationDate":  "2021-04-15T20:57:18+05:30"
   },
   "GeneralSpecs":
   {
@@ -19,7 +19,7 @@
     },
     "Size":
     {
-      "X": 140.111,
+      "X": 140.128,
       "Y": 108.118
     },
     "LayerNumber": 2,
@@ -47,16 +47,6 @@
     {
       "Path":  "Pteron56v0-B_Cu.gbr",
       "FileFunction":  "Copper,L2,Bot",
-      "FilePolarity":  "Positive"
-    },
-    {
-      "Path":  "Pteron56v0-F_Paste.gbr",
-      "FileFunction":  "SolderPaste,Top",
-      "FilePolarity":  "Positive"
-    },
-    {
-      "Path":  "Pteron56v0-B_Paste.gbr",
-      "FileFunction":  "SolderPaste,Bot",
       "FilePolarity":  "Positive"
     },
     {
@@ -92,10 +82,6 @@
       "Notes":  "Layer F.SilkS"
     },
     {
-      "Type":  "SolderPaste",
-      "Notes":  "Layer F.Paste"
-    },
-    {
       "Type":  "SolderMask",
       "Notes":  "Layer F.Mask"
     },
@@ -115,10 +101,6 @@
     {
       "Type":  "SolderMask",
       "Notes":  "Layer B.Mask"
-    },
-    {
-      "Type":  "SolderPaste",
-      "Notes":  "Layer B.Paste"
     },
     {
       "Type":  "Legend",
