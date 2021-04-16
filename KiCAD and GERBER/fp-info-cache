@@ -1,4 +1,4 @@
-24635528264868146
+24638765456321114
 Alps_Only
 ALPS-1.5U
 
@@ -82271,16 +82271,16 @@ SparkFun-Connectors
 40
 40
 SparkFun-Connectors
-2X03
-PIN HEADER
-PIN HEADER
+2X3
+
+
 0
 6
 6
 SparkFun-Connectors
-2X3
-
-
+2X03
+PIN HEADER
+PIN HEADER
 0
 6
 6
@@ -84259,16 +84259,16 @@ SO14
 14
 14
 SparkFun-DigitalIC
-SO016
-
-
+SO16
+SMALL OUTLINE PACKAGE 150 MIL
+SMALL OUTLINE PACKAGE 150 MIL
 0
 16
 16
 SparkFun-DigitalIC
-SO16
-SMALL OUTLINE PACKAGE 150 MIL
-SMALL OUTLINE PACKAGE 150 MIL
+SO016
+
+
 0
 16
 16
@@ -90055,14 +90055,14 @@ SFE_LOGO_FLAME_.4
 0
 0
 Sparkfun-Aesthetics
-SFE_LOGO_FLAME_.5
+SFE_LOGO_FLAME_.05
 
 
 0
 0
 0
 Sparkfun-Aesthetics
-SFE_LOGO_FLAME_.05
+SFE_LOGO_FLAME_.5
 
 
 0
@@ -108023,6 +108023,20 @@ mii_lion_cu-small-plated
 0
 4
 4
+personal-logo
+miryoku-kicad
+
+
+0
+0
+0
+personal-logo
+miryoku-kicad-small
+
+
+0
+0
+0
 personal-logo
 waffle-full
 
