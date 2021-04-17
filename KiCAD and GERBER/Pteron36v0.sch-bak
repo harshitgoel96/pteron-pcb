@@ -1193,7 +1193,7 @@ U 1 1 607AEED1
 P 4600 3700
 F 0 "RE1" V 4646 3470 50  0000 R CNN
 F 1 "Rotary_Encoder_Switch" V 4555 3470 50  0000 R CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 4450 3860 50  0001 C CNN
+F 2 "Keebio-Parts:RotaryEncoder_EC11" H 4450 3860 50  0001 C CNN
 F 3 "~" H 4600 3960 50  0001 C CNN
 	1    4600 3700
 	0    -1   -1   0   
