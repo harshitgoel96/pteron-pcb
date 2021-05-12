@@ -7,4 +7,5 @@ This project is the split evolution of the [pteron-pcb](https://github.com/Krake
 The keyboard is being desinged to be used with [Miryoku-layout](https://github.com/manna-harbour/miryoku), this layout out aims to have efficient use of split keyboard.
 
 ## Important
-The keyboard and case files are currently untested. The files are now ready for prototype. I am planning to run a prototype once things open up in India.
+The keyboard and case files are currently being testedS. A small run of 10 PCB has been manufactured, and I am currently in process of testing it. The pcb have passed continuity test, I will be building a prototype keyboard soon.
+![Pteron36 prototype PCB](https://github.com/harshitgoel96/pteron36-split-keyboard/blob/main/images/proto-pcb.jpeg)
