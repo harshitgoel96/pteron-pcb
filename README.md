@@ -6,6 +6,21 @@ This project is the split evolution of the [pteron-pcb](https://github.com/Krake
 
 The keyboard is being desinged to be used with [Miryoku-layout](https://github.com/manna-harbour/miryoku), this layout out aims to have efficient use of split keyboard.
 
+
+## BOM
+| Component           | part number                             | QTY | Comment                            |
+| ------------------- | --------------------------------------- | --- | ---------------------------------- |
+| PCB                 | Gerber in release section               | 2   |                                    |
+| Diode               | 1n4148, SOD123 for smd, or Through hole | 36  |                                    |
+| ProMicro            |                                         | 2   |                                    |
+| TRRS Jack           | PJ-320A                                 | 2   |                                    |
+| Switches            | Cherry, Alps, Choc                      | 36  | check known issue for choc support |
+| Keycaps             | your choice                             | 36  |                                    |
+| Rotary Encoder      | EC11                                    | 2   | Work in progress to add suport     |
+| Mini tactile switch | PTS526 SMG15 SMTR2 LFS                  | 2   |                                    |
+| TRRS Cable | Jack should be 4 pin type                  | 2   |                                    |
+
+
 ## Important
 The keyboard and case files are currently being testedS. A small run of 10 PCB has been manufactured, and I am currently in process of testing it. The pcb have passed continuity test, I will be building a prototype keyboard soon.
 ![Pteron36 prototype PCB](https://github.com/harshitgoel96/pteron36-split-keyboard/blob/main/images/proto-pcb.jpeg)
