@@ -16,10 +16,10 @@ The keyboard is being desinged to be used with [Miryoku-layout](https://github.c
 | TRRS Jack           | PJ-320A                                 | 2   |                                    |
 | Switches            | Cherry, Alps, Choc                      | 36  | check known issue for choc support |
 | Keycaps             | your choice                             | 36  |                                    |
-| Rotary Encoder      | EC11                                    | 2   | Work in progress to add suport     |
+| Rotary Encoder      | EC11                                    | 2   | Work in progress to add support in firmware |
 | Mini tactile switch | PTS526 SMG15 SMTR2 LFS                  | 2   |                                    |
 | TRRS Cable | Jack should be 4 pin type                  | 2   |                                    |
-
+| OLED | 128x32 SSD1306 I2C                  | 2   | Work in progress to add support in firmware |
 
 ## Important
 The keyboard and case files are currently being testedS. A small run of 10 PCB has been manufactured, and I am currently in process of testing it. The pcb have passed continuity test, I will be building a prototype keyboard soon.
