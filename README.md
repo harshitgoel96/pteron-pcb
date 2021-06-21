@@ -13,18 +13,18 @@ The keyboard is being desinged to be used with [Miryoku-layout](https://github.c
 | ------------------- | --------------------------------------- | --- | ---------------------------------- |
 | PCB                 | Gerber in release section               | 2   |                                    |
 | Diode               | 1n4148, SOD123 for smd, or Through hole | 36  |                                    |
-| ProMicro            |                                         | 2   |                                    |
+| ProMicro/Bluemicro  |                                         | 2   | Firmware is not ready to be merged in QMK/ZMK branches, simply ask me to get firmware  |
 | TRRS Jack           | PJ-320A                                 | 2   |                                    |
-| Switches            | Cherry, Alps, Choc                      | 36  | check known issue for choc support |
+| Switches            | Cherry, Alps, Choc                      | 36  | check PCB compatibility section for more infromation |
 | Keycaps             | your choice                             | 36  |                                    |
 | TRRS Cable | Jack should be 4 pin type                  | 2   |                                    |
 
 #### BOM for optional components
 | Component           | part number                             | QTY | Comment                            |
 | ------------------- | --------------------------------------- | --- | ---------------------------------- |
-| Rotary Encoder      | EC11                                    | 2   | Work in progress to add support in firmware |
-| Mini tactile switch | PTS526 SMG15 SMTR2 LFS                  | 2   |                                    |
-| OLED | 128x32 SSD1306 I2C                  | 2   | Work in progress to add support in firmware |
+| Mini tactile switch | PTS526 SMG15 SMTR2 LFS                  | 2   | You can use tweasers to Reset promicro      |
+| Rotary Encoder      | EC11                                    | 2   | :exclamation: Work in progress to add support in firmware |
+| OLED | 128x32 SSD1306 I2C                  | 2   | :exclamation: Work in progress to add support in firmware |
 
 ## Built keyboard
 ![Pteron36 PCB Render](https://github.com/harshitgoel96/pteron36-split-keyboard/blob/main/images/built.jpeg)
