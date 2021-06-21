@@ -33,10 +33,17 @@ The keyboard is being desinged to be used with [Miryoku-layout](https://github.c
 ## Important
 The PCB and the case have been tested with MX Switches. Alps support will not be added in the case.
 
+### PCB compatibility matrix
 | PCB version | MX Support | Alps Support | Choc support |
 |-------------|------------|--------------|--------------|
 | V1.1.0 | :heavy_check_mark: |:heavy_check_mark: | :x: |
 | V1.2.0 | :heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: |
 
-# Known Issues
-The main branch is currenlty on pcb version V1.1.0 not fully working with Kailh Choc V1 switches. The PCB has the holes in correct posistion but they are not wired correctly, only one (Right hand) has the correct wiring, this is fixed in Universal-fix branch, but has not been validated yet. Do Not use the main branch, and V1.1.0 release for choc switches, please check release section for V1.2.0 .
+To use choc switches, make sure to use V1.2.0 files from release section.
+
+### Case compatibility
+
+| Case Type | MX Support | Alps Support | Choc support |
+|-------------|------------|--------------|--------------|
+| Acrylic | :heavy_check_mark: |:x: | :exclamation: Untested, plate need to be lasered on 2mm sheet |
+| 3D Printed | :construction: I plan to work on it AFTER choc 3d case is added |:x: | :soon: ETA Mid to end of July |
