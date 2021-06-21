@@ -48,7 +48,7 @@ To use choc switches, make sure to use V1.2.0 files from release section.
 | Acrylic | :heavy_check_mark: |:x: | :exclamation: Untested, plate need to be lasered on 2mm sheet |
 | 3D Printed | :construction: I plan to work on it AFTER choc 3d case is added |:x: | :soon: ETA Mid to end of July |
 
-## TO DO LIST
+## ToDo List
 * VIA support in QMK coming :SOON: 
 * OLED Support in both QMK and ZMK.
 * Encoder Support in both QMK and ZMK.
