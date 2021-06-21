@@ -49,7 +49,7 @@ To use choc switches, make sure to use V1.2.0 files from release section.
 | 3D Printed | :construction: I plan to work on it AFTER choc 3d case is added |:x: | :soon: ETA Mid to end of July |
 
 ## ToDo List
-* VIA support in QMK coming :SOON: 
+* VIA support in QMK coming :soon: 
 * OLED Support in both QMK and ZMK.
 * Encoder Support in both QMK and ZMK.
 * Get firmware merged with QMK and ZMK.
