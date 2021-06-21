@@ -31,7 +31,7 @@ The keyboard is being desinged to be used with [Miryoku-layout](https://github.c
 
 
 ## Important
-The PCB and the case have been tested with MX Switches. Alps support will not be added in the case.
+The PCB and the case have been tested with MX Switches. 
 
 ### PCB compatibility matrix
 | PCB version | MX Support | Alps Support | Choc support |
