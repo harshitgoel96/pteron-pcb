@@ -13,7 +13,7 @@ The keyboard is being desinged to be used with [Miryoku-layout](https://github.c
 | ------------------- | --------------------------------------- | --- | ---------------------------------- |
 | PCB                 | Gerber in release section               | 2   |                                    |
 | Diode               | 1n4148, SOD123 for smd, or Through hole | 36  |                                    |
-| ProMicro/Bluemicro  |                                         | 2   | Firmware is not ready to be merged in QMK/ZMK branches, simply ask me to get firmware  |
+| ProMicro/Bluemicro  |                                         | 2   | Firmwaree not merged with QMK/ZMK, reach out to me on how to build the firmware  |
 | TRRS Jack           | PJ-320A                                 | 2   |                                    |
 | Switches            | Cherry, Alps, Choc                      | 36  | check PCB compatibility section for more infromation |
 | Keycaps             | your choice                             | 36  |                                    |
@@ -47,3 +47,9 @@ To use choc switches, make sure to use V1.2.0 files from release section.
 |-------------|------------|--------------|--------------|
 | Acrylic | :heavy_check_mark: |:x: | :exclamation: Untested, plate need to be lasered on 2mm sheet |
 | 3D Printed | :construction: I plan to work on it AFTER choc 3d case is added |:x: | :soon: ETA Mid to end of July |
+
+## TO DO LIST
+* VIA support in QMK coming :SOON: 
+* OLED Support in both QMK and ZMK.
+* Encoder Support in both QMK and ZMK.
+* Get firmware merged with QMK and ZMK.
