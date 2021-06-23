@@ -29,6 +29,8 @@ The keyboard is being desinged to be used with [Miryoku-layout](https://github.c
 ## Built keyboard
 ![Pteron36 PCB Render](https://github.com/harshitgoel96/pteron36-split-keyboard/blob/main/images/built.jpeg)
 
+## Build guide
+Build guide is added in BUILD.md file.
 
 ## Important
 The PCB and the case have been tested with MX Switches. 
