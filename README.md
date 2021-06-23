@@ -48,7 +48,23 @@ To use choc switches, make sure to use V1.2.0 files from release section.
 | Acrylic | :heavy_check_mark: |:x: | :exclamation: Untested, plate need to be lasered on 2mm sheet |
 | 3D Printed | :construction: I plan to work on it AFTER choc 3d case is added |:x: | :soon: ETA Mid to end of July |
 
-## ToDo List
+### Acrylic Case assembly
+Keyboard supports both ProMicro, and nrf52840 based Bluetooth promicro (bluemicro,nice!nano, etc). The case height will be different to accomodate batteries.
+The case designed to be done 3mm acrylic.
+Screw M2 6mm 36 nos
+Standoff HEX M2 6mm or 9mm 18 nos
+#### Case config for ProMicro
+
+All 4 files need to be cut twice so total 8 pieces. 4 per half.
+Screw and standoff needs to be M2. Standoff lenght will be 6mm. Screw length will be 5-6mm. 
+
+#### Case config for Bluemicro, Nine!nano
+The case will be taller by 3mm to accomodate battery. This is assuming battery battery thickness is between 3mm - 4mm. For thickerbattery add close layer and standoff length as required.
+Close.dfx will be cut 4 times, rest all 3 files need to be cut twice so total 10 pieces. 5 per half.
+Screw and standoff needs to be M2. Standoff lenght will be 9mm. Screw length will be 5-6mm.
+
+## ToDo List (In order or priority)
+* Add build guide. :soon:
 * VIA support in QMK coming :soon: 
 * OLED Support in both QMK and ZMK.
 * Encoder Support in both QMK and ZMK.
