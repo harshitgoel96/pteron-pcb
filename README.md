@@ -36,10 +36,11 @@ Build guide is added in BUILD.md file.
 The PCB and the case have been tested with MX Switches. 
 
 ### PCB compatibility matrix
-| PCB version | MX Support | Alps Support | Choc support |
-|-------------|------------|--------------|--------------|
-| V1.1.0 | :heavy_check_mark: |:heavy_check_mark: | :x: |
-| V1.2.0 | :heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: |
+| PCB version | MX Support | Alps Support | Choc support | Remark |
+|-------------|------------|--------------|--------------|--------------|
+| V1.1.0 | :heavy_check_mark: |:heavy_check_mark: | :x: | |
+| V1.2.0 | :heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: | |
+| V1.2.1 | :heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: | same as V1.2.0, just added testing holes |
 
 To use choc switches, make sure to use V1.2.0 files from release section.
 
@@ -48,7 +49,7 @@ To use choc switches, make sure to use V1.2.0 files from release section.
 | Case Type | MX Support | Alps Support | Choc support |
 |-------------|------------|--------------|--------------|
 | Acrylic | :heavy_check_mark: |:x: | :exclamation: Untested, plate need to be lasered on 2mm sheet |
-| 3D Printed | :construction: I plan to work on it AFTER choc 3d case is added |:x: | :soon: ETA Mid to end of July |
+| 3D Printed | 	:construction: Design complete, testing first prototypes |:x: | 	:construction: Design complete, testing first prototypes |
 
 ### Acrylic Case assembly
 Keyboard supports both ProMicro, and nrf52840 based Bluetooth promicro (bluemicro,nice!nano, etc). The case height will be different to accomodate batteries.
