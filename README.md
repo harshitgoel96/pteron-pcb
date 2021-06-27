@@ -32,6 +32,9 @@ The keyboard is being desinged to be used with [Miryoku-layout](https://github.c
 ## Build guide
 Build guide is added in BUILD.md file.
 
+## Firmware file
+Via and Vial compatible hex available in release section. Choose your pick.
+
 ## Important
 The PCB and the case have been tested with MX Switches. 
 
@@ -56,8 +59,8 @@ Keyboard supports both ProMicro, and nrf52840 based Bluetooth promicro (bluemicr
 The case designed to be done 3mm acrylic.
 Screw M2 6mm 36 nos
 Standoff HEX M2 6mm or 9mm 18 nos
-#### Case config for ProMicro
 
+#### Case config for ProMicro
 All 4 files need to be cut twice so total 8 pieces. 4 per half.
 Screw and standoff needs to be M2. Standoff lenght will be 6mm. Screw length will be 5-6mm. 
 
@@ -67,8 +70,8 @@ Close.dfx will be cut 4 times, rest all 3 files need to be cut twice so total 10
 Screw and standoff needs to be M2. Standoff lenght will be 9mm. Screw length will be 5-6mm.
 
 ## ToDo List (In order or priority)
-* Add build guide. :soon:
-* VIA support in QMK coming :soon: 
+* Add build guide. :construction:
+* VIA support in QMK coming  :heavy_check_mark: 
 * OLED Support in both QMK and ZMK.
 * Encoder Support in both QMK and ZMK.
 * Get firmware merged with QMK and ZMK.
