@@ -69,9 +69,10 @@ The case will be taller by 3mm to accomodate battery. This is assuming battery b
 Close.dfx will be cut 4 times, rest all 3 files need to be cut twice so total 10 pieces. 5 per half.
 Screw and standoff needs to be M2. Standoff lenght will be 9mm. Screw length will be 5-6mm.
 
+
+
 ## ToDo List (In order or priority)
 * Add build guide. :construction:
-* VIA support in QMK coming  :heavy_check_mark: 
-* OLED Support in both QMK and ZMK.
-* Encoder Support in both QMK and ZMK.
-* Get firmware merged with QMK and ZMK.
+* OLED Support in ZMK  :construction:. OLED working in QMK now  :heavy_check_mark: 
+* Encoder Support in ZMK  :construction:. Encoder working in QMK now  :heavy_check_mark: 
+* Get firmware merged and ZMK.
