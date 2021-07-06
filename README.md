@@ -33,7 +33,8 @@ The keyboard is being desinged to be used with [Miryoku-layout](https://github.c
 Build guide is added in BUILD.md file.
 
 ## Firmware file
-Via and Vial compatible hex available in release section. Choose your pick.
+Pteron36 has been merged into QMK master with support for miryoku and via. VIA config in available in release section.
+Pteron36 has been merged into VIAL QMK fork. 
 
 ## Important
 The PCB and the case have been tested with MX Switches. 
@@ -74,4 +75,4 @@ Screw and standoff needs to be M2. Standoff lenght will be 9mm. Screw length wil
 * VIA support in QMK coming  :heavy_check_mark: 
 * OLED Support in both QMK and ZMK.
 * Encoder Support in both QMK and ZMK.
-* Get firmware merged with QMK and ZMK.
+* Get firmware merged with ZMK.
