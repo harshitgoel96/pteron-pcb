@@ -1,4 +1,4 @@
-24642085705390529
+24646779029335069
 Alps_Only
 ALPS-1.5U
 
@@ -56711,8 +56711,8 @@ Triple-Dual-1u-LED
 
 
 0
-21
-4
+19
+2
 Keebio-Parts
 Triple-Dual-1u-LED-flip
 
@@ -82271,16 +82271,16 @@ SparkFun-Connectors
 40
 40
 SparkFun-Connectors
-2X03
-PIN HEADER
-PIN HEADER
+2X3
+
+
 0
 6
 6
 SparkFun-Connectors
-2X3
-
-
+2X03
+PIN HEADER
+PIN HEADER
 0
 6
 6
@@ -84245,13 +84245,6 @@ SO08WIDE
 8
 8
 SparkFun-DigitalIC
-SO014
-
-
-0
-14
-14
-SparkFun-DigitalIC
 SO14
 
 
@@ -84259,16 +84252,23 @@ SO14
 14
 14
 SparkFun-DigitalIC
-SO016
+SO014
 
 
 0
-16
-16
+14
+14
 SparkFun-DigitalIC
 SO16
 SMALL OUTLINE PACKAGE 150 MIL
 SMALL OUTLINE PACKAGE 150 MIL
+0
+16
+16
+SparkFun-DigitalIC
+SO016
+
+
 0
 16
 16
@@ -96032,6 +96032,13 @@ TO 220 VERTICAL PACKAGE WORKS WITH VARIOUS PARTS INCLUDING N-CHANNEL MOSFET SPAR
 0
 3
 3
+User-Submitted
+uni-new
+MXALPS
+MXALPS
+0
+7
+2
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -108093,6 +108100,13 @@ promicro ProMicro
 0
 24
 24
+protonc
+proton_c
+
+
+0
+42
+39
 redox_w_footprints
 BatteryHolder_Keystone_3034_1x20mm
 Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798
@@ -108394,3 +108408,10 @@ via-0.6mm
 0
 1
 1
+usbc_footprint
+z_Drill_05x10
+
+
+0
+0
+0
