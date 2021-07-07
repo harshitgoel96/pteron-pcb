@@ -23,8 +23,8 @@ The keyboard is being desinged to be used with [Miryoku-layout](https://github.c
 | Component           | part number                             | QTY | Comment                            |
 | ------------------- | --------------------------------------- | --- | ---------------------------------- |
 | Mini tactile switch | PTS526 SMG15 SMTR2 LFS                  | 2   | You can use tweasers to Reset promicro      |
-| Rotary Encoder      | EC11                                    | 2   | :exclamation: Work in progress to add support in firmware |
-| OLED | 128x32 SSD1306 I2C                  | 2   | :exclamation: Work in progress to add support in firmware |
+| Rotary Encoder      | EC11                                    | 2   | QMK, VIAL ✔️ ZMK 🚧 |
+| OLED | 128x32 SSD1306 I2C                  | 2   | QMK, VIAL ✔️ ZMK 🚧 |
 
 ## Built keyboard
 ![Pteron36 PCB Render](https://github.com/harshitgoel96/pteron36-split-keyboard/blob/main/images/built.jpeg)
