@@ -27,7 +27,7 @@ The keyboard is being desinged to be used with [Miryoku-layout](https://github.c
 | OLED | 128x32 SSD1306 I2C                  | 2   | QMK, VIAL ✔️ ZMK 🚧 |
 
 ## Built keyboard
-![Pteron36 PCB Render](https://github.com/harshitgoel96/pteron36-split-keyboard/blob/main/images/built.jpeg)
+![Pteron36 keyboard](https://github.com/harshitgoel96/pteron36-split-keyboard/blob/main/images/built.jpeg)
 
 ## Build guide
 Build guide is added in BUILD.md file.
@@ -44,7 +44,7 @@ The PCB and the case have been tested with MX Switches.
 |-------------|------------|--------------|--------------|--------------|
 | V1.1.0 | :heavy_check_mark: |:heavy_check_mark: | :x: | |
 | V1.2.0 | :heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: | |
-| V1.2.1 | :heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: | same as V1.2.0, just added testing holes |
+| V1.3.0 | :heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: | Cleaner trace routing, added mounting holes |
 
 To use choc switches, make sure to use V1.2.0 files from release section.
 
@@ -55,12 +55,18 @@ To use choc switches, make sure to use V1.2.0 files from release section.
 | Acrylic | :heavy_check_mark: |:x: | :exclamation: Untested, plate need to be lasered on 2mm sheet |
 | 3D Printed | 	:construction: Design complete, testing first prototypes |:x: | 	:construction: Design complete, testing first prototypes |
 
+Tenting support added, need M4 screws for tenting holes.
 ### Acrylic Case assembly
 Keyboard supports both ProMicro, and nrf52840 based Bluetooth promicro (bluemicro,nice!nano, etc). The case height will be different to accomodate batteries.
 The case designed to be done 3mm acrylic.
 Screw M2 6mm 36 nos
 Standoff HEX M2 6mm or 9mm 18 nos
 
+For tenting you need.
+4x M4 25mm-30mm screws.
+4x M4 15mm screws.
+8x M4 dome nuts for screw bottom.
+8x M4 nut for holding case at required height.
 #### Case config for ProMicro
 All 4 files need to be cut twice so total 8 pieces. 4 per half.
 Screw and standoff needs to be M2. Standoff lenght will be 6mm. Screw length will be 5-6mm. 
