@@ -7,7 +7,7 @@
       "Application": "Pcbnew",
       "Version":     "(5.1.7)-1"
     },
-    "CreationDate":  "2021-07-07T20:11:58+05:30"
+    "CreationDate":  "2021-07-10T14:06:06+05:30"
   },
   "GeneralSpecs":
   {
@@ -50,6 +50,26 @@
       "FilePolarity":  "Positive"
     },
     {
+      "Path":  "Pteron36v0-F_Adhes.gbr",
+      "FileFunction":  "Glue,Top",
+      "FilePolarity":  "Positive"
+    },
+    {
+      "Path":  "Pteron36v0-B_Adhes.gbr",
+      "FileFunction":  "Glue,Bot",
+      "FilePolarity":  "Positive"
+    },
+    {
+      "Path":  "Pteron36v0-F_Paste.gbr",
+      "FileFunction":  "SolderPaste,Top",
+      "FilePolarity":  "Positive"
+    },
+    {
+      "Path":  "Pteron36v0-B_Paste.gbr",
+      "FileFunction":  "SolderPaste,Bot",
+      "FilePolarity":  "Positive"
+    },
+    {
       "Path":  "Pteron36v0-F_SilkS.gbr",
       "FileFunction":  "Legend,Top",
       "FilePolarity":  "Positive"
@@ -82,6 +102,10 @@
       "Notes":  "Layer F.SilkS"
     },
     {
+      "Type":  "SolderPaste",
+      "Notes":  "Layer F.Paste"
+    },
+    {
       "Type":  "SolderMask",
       "Notes":  "Layer F.Mask"
     },
@@ -101,6 +125,10 @@
     {
       "Type":  "SolderMask",
       "Notes":  "Layer B.Mask"
+    },
+    {
+      "Type":  "SolderPaste",
+      "Notes":  "Layer B.Paste"
     },
     {
       "Type":  "Legend",
