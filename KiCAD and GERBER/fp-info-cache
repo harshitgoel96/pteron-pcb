@@ -1,4 +1,4 @@
-24648405139785991
+24648409841661601
 Alps_Only
 ALPS-1.5U
 
@@ -82271,16 +82271,16 @@ SparkFun-Connectors
 40
 40
 SparkFun-Connectors
-2X03
-PIN HEADER
-PIN HEADER
+2X3
+
+
 0
 6
 6
 SparkFun-Connectors
-2X3
-
-
+2X03
+PIN HEADER
+PIN HEADER
 0
 6
 6
@@ -84245,14 +84245,14 @@ SO08WIDE
 8
 8
 SparkFun-DigitalIC
-SO14
+SO014
 
 
 0
 14
 14
 SparkFun-DigitalIC
-SO014
+SO14
 
 
 0
@@ -96037,7 +96037,7 @@ uni-new
 MXALPS
 MXALPS
 0
-12
+7
 2
 Valve
 Valve_ECC-83-1
