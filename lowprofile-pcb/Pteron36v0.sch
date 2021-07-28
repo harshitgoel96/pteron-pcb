@@ -924,4 +924,40 @@ Wire Wire Line
 	4000 3000 4000 4000
 Wire Wire Line
 	2550 3050 4850 3050
+$Comp
+L Device:Rotary_Encoder EC1
+U 1 1 61010966
+P 8100 3350
+F 0 "EC1" V 8089 3120 50  0000 R CNN
+F 1 "EC12_encoder" V 7998 3120 50  0000 R CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC12E_Vertical_H20mm" H 7950 3510 50  0001 C CNN
+F 3 "~" H 8100 3610 50  0001 C CNN
+	1    8100 3350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8000 3650 8000 3850
+Wire Wire Line
+	8000 3850 7950 3850
+Wire Wire Line
+	8200 3650 8200 3850
+Wire Wire Line
+	8200 3850 8250 3850
+Wire Wire Line
+	8100 3650 8100 3850
+$Comp
+L power:GND #PWR0105
+U 1 1 6101EE6E
+P 8100 3850
+F 0 "#PWR0105" H 8100 3600 50  0001 C CNN
+F 1 "GND" V 8105 3722 50  0000 R CNN
+F 2 "" H 8100 3850 50  0001 C CNN
+F 3 "" H 8100 3850 50  0001 C CNN
+	1    8100 3850
+	1    0    0    -1  
+$EndComp
+Text Label 7950 3850 2    50   ~ 0
+RotA
+Text Label 8250 3850 0    50   ~ 0
+RotB
 $EndSCHEMATC
