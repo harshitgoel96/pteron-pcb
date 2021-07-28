@@ -1,4 +1,4 @@
-24648409841661601
+24659864622259929
 Alps_Only
 ALPS-1.5U
 
@@ -82271,16 +82271,16 @@ SparkFun-Connectors
 40
 40
 SparkFun-Connectors
-2X3
-
-
+2X03
+PIN HEADER
+PIN HEADER
 0
 6
 6
 SparkFun-Connectors
-2X03
-PIN HEADER
-PIN HEADER
+2X3
+
+
 0
 6
 6
@@ -84245,13 +84245,6 @@ SO08WIDE
 8
 8
 SparkFun-DigitalIC
-SO014
-
-
-0
-14
-14
-SparkFun-DigitalIC
 SO14
 
 
@@ -84259,16 +84252,23 @@ SO14
 14
 14
 SparkFun-DigitalIC
-SO016
+SO014
 
 
 0
-16
-16
+14
+14
 SparkFun-DigitalIC
 SO16
 SMALL OUTLINE PACKAGE 150 MIL
 SMALL OUTLINE PACKAGE 150 MIL
+0
+16
+16
+SparkFun-DigitalIC
+SO016
+
+
 0
 16
 16
@@ -95899,6 +95899,13 @@ Wurth-632723300011-MaximumExtensionMount
 0
 32
 27
+Type-C
+mx-cutout-def
+
+
+0
+0
+0
 Universal-Switch-Footprint
 MX-ALPs-PG1350-FLIP
 
@@ -95991,6 +95998,13 @@ MX_PCB_100H
 2
 2
 User-Submitted
+RotaryEncoder_Alps_EC11E-cutout
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+User-Submitted
 SO08
 SMALL OUTLINE PACKAGE FITS JEDEC PACKAGES (NARROW SOIC-8)
 SMALL OUTLINE PACKAGE FITS JEDEC PACKAGES (NARROW SOIC-8)
@@ -96032,6 +96046,20 @@ TO 220 VERTICAL PACKAGE WORKS WITH VARIOUS PARTS INCLUDING N-CHANNEL MOSFET SPAR
 0
 3
 3
+User-Submitted
+alps-cutout
+
+
+0
+0
+0
+User-Submitted
+mx-cut
+
+
+0
+0
+0
 User-Submitted
 uni-new
 MXALPS
@@ -108060,6 +108088,27 @@ miryoku-kicad-small
 0
 personal-logo
 pankh-10x5
+
+
+0
+0
+0
+personal-logo
+peacock-large
+
+
+0
+0
+0
+personal-logo
+peacock-medium
+
+
+0
+0
+0
+personal-logo
+peacock-small
 
 
 0
