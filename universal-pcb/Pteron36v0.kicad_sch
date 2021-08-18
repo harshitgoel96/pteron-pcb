@@ -1828,7 +1828,7 @@
     (uuid cf361c86-9d9b-4dea-a5c2-ea10f53cb6ec)
     (property "Reference" "JP10" (id 0) (at 271.78 116.3024 0))
     (property "Value" "Jumper_NO_Small" (id 1) (at 271.78 119.0775 0))
-    (property "Footprint" "User-Submitted:solder_jumper" (id 2) (at 271.78 120.65 0)
+    (property "Footprint" "User-Submitted:SolderJumper-flip-2_P1.3mm_Open_Pad1.0x1.5mm" (id 2) (at 271.78 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 271.78 120.65 0)
@@ -3128,7 +3128,7 @@
       (reference "JP8") (unit 1) (value "Jumper_NO_Small") (footprint "SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK")
     )
     (path "/cf361c86-9d9b-4dea-a5c2-ea10f53cb6ec"
-      (reference "JP10") (unit 1) (value "Jumper_NO_Small") (footprint "User-Submitted:solder_jumper")
+      (reference "JP10") (unit 1) (value "Jumper_NO_Small") (footprint "User-Submitted:SolderJumper-flip-2_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/a9b58b6f-e7ea-4927-95e3-e75d74487149"
       (reference "LOGO3") (unit 1) (value "LOGO-OTL") (footprint "personal-logo:peacock-medium")
