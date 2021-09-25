@@ -18,7 +18,7 @@ NOTE: The keyboard design has reached its goal, I will not be doing any more dev
 | TRRS Jack           | PJ-320A                                 | 2   |                                    |
 | Switches            | Cherry, Alps, Choc                      | 36  | check PCB compatibility section for more infromation |
 | Keycaps             | your choice                             | 36  |                                    |
-| TRRS Cable | Jack should be 4 pin type                  | 2   |                                    |
+| TRRS Cable | TRRS cables have 3 black rings, make sure to check the number | 1   |                                    |
 
 #### BOM for optional components
 | Component           | part number                             | QTY | Comment                            |
