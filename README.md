@@ -13,11 +13,11 @@ NOTE: The keyboard design has reached its goal, I will not be doing any more dev
 | Component           | part number                             | QTY | Comment                            |
 | ------------------- | --------------------------------------- | --- | ---------------------------------- |
 | PCB                 | Gerber in release section               | 2   |                                    |
-| Diode               | 1n4148, SOD123 for smd, or Through hole | 36  |                                    |
+| Diode               | 1n4148, SOD123 for smd, or Through hole | 38/36/34  |                                    |
 | ProMicro/Bluemicro  |                                         | 2   | Firmwaree not merged with QMK/ZMK, reach out to me on how to build the firmware  |
 | TRRS Jack           | PJ-320A                                 | 2   |                                    |
-| Switches            | Cherry, Alps, Choc                      | 36  | check PCB compatibility section for more infromation |
-| Keycaps             | your choice                             | 36  |                                    |
+| Switches            | Cherry, Alps, Choc                      | 38/36/34  | check PCB compatibility section for more infromation |
+| Keycaps             | your choice                             | 38/36/34  |                                    |
 | TRRS Cable | TRRS cables have 3 black rings, make sure to check the number | 1   |                                    |
 
 #### BOM for optional components
