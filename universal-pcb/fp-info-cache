@@ -1,4 +1,4 @@
-24648409841661601
+24682668697624554
 Alps_Only
 ALPS-1.5U
 
@@ -76474,6 +76474,83 @@ Potentiometer vertical Vishay T73YP
 0
 3
 3
+Pteron36-universal-Library
+1X03_LONGPADS
+
+
+0
+3
+3
+Pteron36-universal-Library
+Diode-dual
+
+
+0
+10
+2
+Pteron36-universal-Library
+MountingHole_2.2mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+Pteron36-universal-Library
+OLED_4Pin_outline
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
+Pteron36-universal-Library
+PAD-JUMPER-2-NO_NO_SILK
+
+
+0
+2
+2
+Pteron36-universal-Library
+ProMicro
+Pro Micro footprint
+promicro ProMicro
+0
+24
+24
+Pteron36-universal-Library
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+Pteron36-universal-Library
+TRRS-PJ-320A
+
+
+0
+4
+4
+Pteron36-universal-Library
+Triple-Dual-1u-LED
+
+
+0
+19
+2
+Pteron36-universal-Library
+peacock-medium
+
+
+0
+0
+0
+Pteron36-universal-Library
+smdPushBtn
+ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, Without stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAEE010.html
+SPST Button Switch
+0
+4
+2
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -82271,16 +82348,16 @@ SparkFun-Connectors
 40
 40
 SparkFun-Connectors
-2X3
-
-
+2X03
+PIN HEADER
+PIN HEADER
 0
 6
 6
 SparkFun-Connectors
-2X03
-PIN HEADER
-PIN HEADER
+2X3
+
+
 0
 6
 6
@@ -90055,14 +90132,14 @@ SFE_LOGO_FLAME_.4
 0
 0
 Sparkfun-Aesthetics
-SFE_LOGO_FLAME_.5
+SFE_LOGO_FLAME_.05
 
 
 0
 0
 0
 Sparkfun-Aesthetics
-SFE_LOGO_FLAME_.05
+SFE_LOGO_FLAME_.5
 
 
 0
@@ -95899,6 +95976,13 @@ Wurth-632723300011-MaximumExtensionMount
 0
 32
 27
+Type-C
+mx-cutout-def
+
+
+0
+0
+0
 Universal-Switch-Footprint
 MX-ALPs-PG1350-FLIP
 
@@ -95956,6 +96040,13 @@ MX625_base
 10
 3
 Universal-Switch-Footprint
+SW_PG1350_reversible_nohole_thumg
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
+kailh,choc
+0
+3
+2
+Universal-Switch-Footprint
 uni_PCB_100H_Dual_hole
 
 
@@ -95991,6 +96082,13 @@ MX_PCB_100H
 2
 2
 User-Submitted
+RotaryEncoder_Alps_EC11E-cutout
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+User-Submitted
 SO08
 SMALL OUTLINE PACKAGE FITS JEDEC PACKAGES (NARROW SOIC-8)
 SMALL OUTLINE PACKAGE FITS JEDEC PACKAGES (NARROW SOIC-8)
@@ -96012,6 +96110,13 @@ SOT89
 4
 4
 User-Submitted
+SolderJumper-flip-2_P1.3mm_Open_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
+0
+4
+2
+User-Submitted
 TO-92
 TO 92
 TO 92
@@ -96032,6 +96137,27 @@ TO 220 VERTICAL PACKAGE WORKS WITH VARIOUS PARTS INCLUDING N-CHANNEL MOSFET SPAR
 0
 3
 3
+User-Submitted
+alps-cutout
+
+
+0
+0
+0
+User-Submitted
+mx-cut
+
+
+0
+0
+0
+User-Submitted
+solder_jumper
+
+
+0
+6
+2
 User-Submitted
 uni-new
 MXALPS
@@ -108060,6 +108186,27 @@ miryoku-kicad-small
 0
 personal-logo
 pankh-10x5
+
+
+0
+0
+0
+personal-logo
+peacock-large
+
+
+0
+0
+0
+personal-logo
+peacock-medium
+
+
+0
+0
+0
+personal-logo
+peacock-small
 
 
 0

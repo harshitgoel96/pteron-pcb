@@ -369,7 +369,7 @@
       "idf": "",
       "netlist": "Pteron56v0.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Pteron36v0.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

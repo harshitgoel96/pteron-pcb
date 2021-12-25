@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Pteron36-lowprofile-Library")(type "KiCad")(uri "${KIPRJMOD}/Pteron36-lowprofile-Library.pretty")(options "")(descr ""))
+)
