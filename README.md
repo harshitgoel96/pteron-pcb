@@ -46,7 +46,7 @@ The PCB and the case have been tested with MX Switches.
 | V1.1.0 | :heavy_check_mark: |:heavy_check_mark: | :x: | |
 | V1.2.0 | :heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: | |
 | V1.3.0 | :heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: | Cleaner trace routing, added mounting holes |
-
+| V1.4.0 | :heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: | Replaced sharp angle with curves, more cleaner pcb look |
 To use choc switches, make sure to use V1.2.0 files from release section.
 
 ### Case compatibility
