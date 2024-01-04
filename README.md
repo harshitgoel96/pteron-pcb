@@ -8,6 +8,7 @@ This project is the split evolution of the [pteron-pcb](https://github.com/Krake
 The keyboard is being desinged to be used with [Miryoku-layout](https://github.com/manna-harbour/miryoku), this layout out aims to have efficient use of split keyboard.
 
 NOTE: The keyboard design has reached its goal, I will not be doing any more development on this board. The support will still be provided. Any issues found by community will be addressed.
+NOTE: Update Jan 4th, 2023, a few people have reached out to me with intentions to use the 38key version of the keyboard. The firmware changes have not been merged with QMK mainline yet. For the timebeing, please use this [forked branch to use 38key firmware](https://github.com/harshitgoel96/qmk_firmware/tree/pteron36_38/keyboards/pteron36). I will be working to update the firmware and merge it into the mainline.
 
 #### BOM
 | Component           | part number                             | QTY | Comment                            |
